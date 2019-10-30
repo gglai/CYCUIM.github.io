@@ -1256,8 +1256,8 @@ hr{		height: 3px;
       	border-radius: 30px;
    	  	border: 6px #CA6F1E   dashed ;
   	  	padding:4px;   	  	
-   	  	position: absolute;
-	  	left:637px;
+   	  	position:absolute;
+	  	left: 637px;
 	  	top:0px;
    }
 .po{	position: absolute;
