@@ -1248,17 +1248,17 @@ hr{		height: 3px;
 	  	border-radius: 30px;
 	  	border: 6px #CA6F1E dashed ;
 	  	padding:4px;
-	  	z-index: -1;
+	  	
    }
 .video2{ 
 	  	width:630px;
       	height:354px;
       	border-radius: 30px;
    	  	border: 6px #CA6F1E   dashed ;
-  	  	padding:4px;
-   	  	z-index: -1;
-   	  	position:relative;
-   	  	top:0;
+  	  	padding:4px;   	  	
+   	  	position: absolute;
+	  	left:637px;
+	  	top:0px;
    }
 .po{	position: absolute;
    	  	top:1000px;}
