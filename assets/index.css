@@ -191,14 +191,14 @@ fieldset{border:3px #323A51 dashed;}
 		50%{top:490px;}
 		100%{top:460px;}
 		}	
-video{	width:650px;
-	    height:374px;
+.v2{	width:672px;
+	    height:378px;
 	    position: absolute;
-	 	left:635px;
+	 	left:625px;
 	 	top:230px; 
 	 	border-radius: 30px;
 	 	border: 6px #696E9A dashed ;
-	 	z-index: -1;
+	 	
 	 	}	 	  
 .circle1{width:500px;
 	    height:442px;
@@ -1738,3 +1738,4 @@ hr{		height: 3px;
 		top:300px;
 		left:1100px;		
 }
+.v2{	width: ;}
