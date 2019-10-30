@@ -20,13 +20,13 @@ body   {background-color: #9EBAC5;
 		opacity: 1;
 		background-color:#9EBAC5;}		
 .bodyy {width: 100vw;
-		height:565px;
+		height:800px;
 		margin: 0px;
 		
 		}
-.cycuim{width:600px;
- 		height: 110px;
- 		padding-top:10px; 
+.cycuim{width:650px;
+ 		height: 130px;
+ 		padding-top:30px; 
  		}
 .div1  {width: 20vw;
 		height:100vh;
@@ -35,21 +35,49 @@ body   {background-color: #9EBAC5;
 	    left:0;}
 .div2  {float:left;
 		width:65vw;
-		height: 950px;
+		height: 750px;
 		position: absolute;
-        left:26vw;
+		top:180px;
+        left:24vw;
 
 	    }
 .div3{	float:left;
 		width:65vw;
-		height: 1980px;
+		height:1330px;
 		position: absolute;
-        left:26vw;
+		top:180px;
+        left:24vw;
 }
+.div4{	float:left;
+		width:65vw;
+		height: 900px;
+		position: absolute;
+		top:180px;
+        left:24vw;}
+.div5{	float:left;
+		width:65vw;
+		height: 800px;
+		position: absolute;
+		top:180px;
+        left:24vw;}
+.div6{	float:left;
+		width:65vw;
+		height: 950px;
+		position: absolute;
+		top:180px;
+        left:24vw;}
+.div7{	float:left;
+		width:65vw;
+		height: 930px;
+		position: absolute;
+		top:180px;
+        left:24vw;}
+
 .futurediv{
 		width:65vw;
 		height: 1100px;
 		position: absolute;
+		top:180px;
         left:26vw;
 }
 .divsport{
@@ -57,12 +85,13 @@ body   {background-color: #9EBAC5;
 		width:65vw;
 		height:3950px;
 		position: absolute;
-        left:26vw;
+		top:180px;
+        left:24vw;
 }
 .formdiv{
 		position:absolute;
-		top:3350px;
-		left:100px;
+		top:3280px;
+		left:220px;
 
 }
 form{	width:550px;
@@ -106,170 +135,170 @@ legend{	font-size:28px;
 		color:#465070;
 		}
 fieldset{border:3px #323A51 dashed;}
-.about{	width: 210px;
-	 	height: 181px;
+.about{	width: 270px;
+	 	height: 231px;
 	 	position: absolute;
-	 	left:190px;
-	    top:190px;}	 
+	 	left:245px;
+	    top:210px;}	 
 .about:hover
 	   {transform:scale(1.2);
 	   	-webkit-animation:hey .8s infinite ;
 		}
 		@-webkit-keyframes hey
-		{0%{top:170px;}
-		50%{top:200px;}
-		100%{top:170px;}
+		{0%{top:200px;}
+		50%{top:230px;}
+		100%{top:200px;}
 		}
-.study{ width: 210px;
-	 	height: 181px;
+.study{ width: 270px;
+	 	height: 231px;
 	 	position: absolute; 
 	    left:50px;
-	    top:480px;}
+	    top:550px;}
 .study:hover
 		{transform:scale(1.2);
 	   	-webkit-animation:heyy .8s infinite ;
 		}
 		@-webkit-keyframes heyy
-		{0%{top:470px;}
-		50%{top:500px;}
-		100%{top:470px;}
+		{0%{top:540px;}
+		50%{top:570px;}
+		100%{top:540px;}
 		}
-.imsa{  width: 210px;
-	 	height: 181px;
+.imsa{  width: 270px;
+	 	height: 231px;
 	 	position: absolute;
-	 	left:1150px;
+	 	left:1370px;
 	 	top:115px; }
 .imsa:hover
 		{transform:scale(1.2);
 	   	-webkit-animation:heyyy .8s infinite ;
 		}
 		@-webkit-keyframes heyyy
-		{0%{top:120px;}
-		50%{top:150px;}
-		100%{top:120px;}
+		{0%{top:105px;}
+		50%{top:135px;}
+		100%{top:105px;}
 		}
-.sport{ width: 210px;
-	 	height: 181px;
+.sport{ width: 265px;
+	 	height: 231px;
 	 	position: absolute;
-	 	left:1280px;
-	 	top:430px; }
+	 	left:1605px;
+	 	top:470px; }
 .sport:hover
 		{transform:scale(1.2);
 	   	-webkit-animation:heyyyy .8s infinite ;
 		}
 		@-webkit-keyframes heyyyy
-		{0%{top:420px;}
-		50%{top:450px;}
-		100%{top:420px;}
+		{0%{top:460px;}
+		50%{top:490px;}
+		100%{top:460px;}
 		}	
-video{	width:630px;
-	    height:354px;
+video{	width:650px;
+	    height:374px;
 	    position: absolute;
-	 	left:452px;
-	 	top:145px; 
+	 	left:635px;
+	 	top:230px; 
 	 	border-radius: 30px;
 	 	border: 6px #696E9A dashed ;
 	 	z-index: -1;
 	 	}	 	  
-.circle1{width:400px;
-	    height:342px;
+.circle1{width:500px;
+	    height:442px;
 		position: absolute;
 	    left:0px;
 	    top:0px;}   
-.circle3{width:400px;
-	    height:342px;
+.circle3{width:500px;
+	    height:442px;
 		position: absolute;
-		left:1100px;
-	    top:370px;}	
+		right:0px;
+	    bottom:0px;}	
 .more{	width:150px;
 	    height:150px;
 		position: absolute;
-		left:315px;
-	    top:350px;
+		left:480px;
+	    top:435px;
 		}	
 .more:hover{
 		transform:scale(1.1);
 		-webkit-animation:jump .8s infinite ;
 		}   
 		@-webkit-keyframes jump
-		{0%{top:340px;}
-		50%{top:370px;}
-		100%{top:340px;}
+		{0%{top:425px;}
+		50%{top:455px;}
+		100%{top:425px;}
 		}     
-.c	   {width:210px;
-		height:180px;
+.c	   {width:310px;
+		height:280px;
 		position: absolute;
-		left:350px;
-	    top:540px;
+		left:390px;
+	    top:650px;
 		}
 .c:hover{
-		transform: scale(1.18);
-		top:525px;
+		transform: scale(1.15);
+		top:630px;
 		}
-.y	   {width:210px;
-		height:180px;
+.y	   {width:310px;
+		height:280px;
 		position: absolute;
-		left:555px;
-	    top:540px;
+		left:655px;
+	    top:650px;
 		}
 .y:hover{
-		transform: scale(1.18);
-		top:525px;
+		transform: scale(1.15);
+		top:630px;
 		}
-.i	   {width:210px;
-		height:180px;
+.i	   {width:310px;
+		height:280px;
 		position: absolute;
-		left:760px;
-	    top:540px;
+		left:950px;
+	    top:650px;
 		}
 .i:hover{
-		transform: scale(1.3);
-		top:515px;
+		transform: scale(1.2);
+		top:620px;
 		}
-.m	   {width:210px;
-		height:180px;
+.m	   {width:310px;
+		height:280px;
 		position: absolute;
-		left:970px;
-	    top:540px;
+		left:1230px;
+	    top:650px;
 		}
 .m:hover{
-		transform: scale(1.3);
-		top:515px;
+		transform: scale(1.2);
+		top:620px;
 		}
 .about1{width:310px;
 		height:265px;
 		position: relative;
-	    left:30px;
-	    top:-25px;}
+	    left:70px;
+	    top:-50px;}
 .class1{width:310px;
 		height:265px;
 		position: relative;
-	    left:100px;
-	    top:-30px;}
+	    left:220px;
+	    top:-50px;}
 .class1:hover{
 		transform: scale(1.1);	
 		}
 .imsa1 {width:320px;
 		height:275px;
 		position: relative;
-	    left:170px;
-	    top:-30px;}
+	    left:390px;
+	    top:-50px;}
 .imsa1:hover{
 		transform: scale(1.1);	
 		}	    
 .sport1{width:315px;
 		height:270px;
 		position: relative;
-	    left:240px;
-	    top:0px;}
+	    left:550px;
+	    top:-35px;}
 .sport1:hover{
 		transform: scale(1.1);	
 		}	   
-.what  {width:206px ;
-		height:104px ;
+.what  {width:240px ;
+		height:130px ;
 		position: absolute;
 		left:50px;
-		top:-50px;
+		top:0px;
 		-webkit-animation:what 1.8s infinite linear;}
 		@-webkit-keyframes what
 		{0%{transform:translateX(0px);}
@@ -278,68 +307,68 @@ video{	width:630px;
 		75%{transform:translateX(-4px);}
 		100%{transform:translateX(-1px);}
 		}
-.prefer{width:206px ;
-		height:104px ;
+.prefer{width:240px ;
+		height:130px ;
 		position: absolute;
-		left:150px;
-		top:85px;
+		left:170px;
+		top:200px;
 		-webkit-animation:what 1.8s infinite linear 0.3s;} 
-.future{width:200px ;
-		height:160px ;
+.future{width:240px ;
+		height:200px ;
 		position: absolute;
 		left:10px;
-		top:190px;
+		top:350px;
 		-webkit-animation:what 2s infinite linear 0.5s;}
 .profession{
-		width:200px;
-		height:160px ;
+		width:240px;
+		height:200px ;
 		position: absolute;
-		left:40px;
-		top:-20px;
+		left:80px;
+		top:-10px;
 		-webkit-animation:what 1.8s 0.3s infinite linear;
 		}
 .company{
-		width:200px;
-		height:160px ;
+		width:240px;
+		height:200px ;
 		position: absolute;
 		left:40px;
-		top:220px;
+		top:350px;
 		-webkit-animation:what 1.8s 0.5s infinite linear;
 		}
 .important{
-		width:278px;
-		height:155px ;
+		width:300px;
+		height:200px ;
 		position: absolute;
-		left:0px;
-		top:105px;
+		left:150px;
+		top:175px;
 		-webkit-animation:what 1.8s infinite linear;
 		}
-.new{	width:170px ;
-		height:137px ;
+.new{	width:200px ;
+		height:150px ;
 		position: absolute;
-		left:50px;
-		top:-100px;
+		left:200px;
+		top:0px;
 		-webkit-animation:what 1.8s 0.3s infinite linear;
 		}		
-.dog{	width:165px ;
-		height:135px ;
+.dog{	width:200px ;
+		height:150px ;
 		position: absolute;
-		left:215px;
-		top:-10px;
+		left:50px;
+		top:150px;
 		-webkit-animation:what 1.8s 0.5s infinite linear;
 		}								
-.tired{	width:165px ;
-		height:137px ;
+.tired{	width:200px ;
+		height:150px ;
 		position: absolute;
-		left:190px;
-		top:155px;
+		left:200px;
+		top:280px;
 		-webkit-animation:what 1.8s 0.8s infinite linear;
 		}
-.rase{	width:170px ;
-		height:137px ;
+.rase{	width:200px ;
+		height:150px ;
 		position: absolute;
-		left:10px;
-		top:230px;
+		left:50px;
+		top:430px;
 		-webkit-animation:what 1.8s infinite linear;
 		}	
 .basketball{
@@ -347,7 +376,7 @@ video{	width:630px;
 		height:150px ;
 		position: absolute;
 		left:30px;
-		top:20px;
+		top:-20px;
 		-webkit-animation:bk 3s 0.5s linear infinite ;
 		}				
 		@-webkit-keyframes bk
@@ -361,39 +390,35 @@ video{	width:630px;
 		height:210px ;
 		position: absolute;
 		left:170px;
-		top:120px;
+		top:100px;
 		-webkit-animation:bm 1.5s 0.3s infinite ;
 		}	
 		@-webkit-keyframes bm
-		{0%{top:110px;}
-		50%{top:140px;}
-		100%{top:110px;}
+		{0%{top:90px;}
+		50%{top:110px;}
+		100%{top:90px;}
 		}
 .volleyball{
-		width: 200px;
-		height:200px ;
+		width: 230px;
+		height:230px ;
 		position: absolute;
-		left:60px;
-		top:270px;
-		-webkit-animation:vo 1.5s infinite ;
+		left:10px;
+		top:220px;
+		-webkit-animation:bk 3s  linear infinite ;
 		}		
-		@-webkit-keyframes vo
-		{0%{top:260px;}
-		50%{top:290px;}
-		100%{top:260px;}
-		}
+		
 .sportform{
-		width: 200px;
-		height:200px ;
+		width: 150px;
+		height:150px ;
 		position: absolute;
-		left:0px;
-		top:300px;
-		-webkit-animation:sf 1.5s infinite ;
+		left:200px;
+		top:410px;
+		-webkit-animation:sf 1.5s 0.8s infinite ;
 		}		
 		@-webkit-keyframes sf
-		{0%{top:290px;}
-		50%{top:320px;}
-		100%{top:290px;}		
+		{0%{top:400px;}
+		50%{top:420px;}
+		100%{top:400px;}		
 		}
 .im	{	font-size:28px;
 		font-weight: bolder;
@@ -415,7 +440,7 @@ video{	width:630px;
 		font-weight: bolder;
 		color:#744141;
 		position: absolute;
-		top:200px;
+		top:180px;
 		background-color: #D7C1C1;
 		border:10px #7E9C84 double;
 		border-radius: 40px 10px 40px 10px;
@@ -441,9 +466,20 @@ video{	width:630px;
 		color:#313147;
 		opacity: 0;
 		animation: im 1s 1.5s forwards;}
+.imp1{	position: absolute;
+		top:100px;
+		left: 80px;
+		font-size: 18px;		
+		line-height:50px;
+		font-weight: bold;
+		color:#313147;
+		opacity: 0;
+		animation: im 1s 1.5s forwards;
+		}
 .rase1{	height: 150px;
 		position: absolute;
-		top:280px;
+		top:270px;
+		left:100px;
 		font-size: 18px;		
 		line-height:50px;
 		font-weight: bold;
@@ -468,7 +504,7 @@ video{	width:630px;
 		}
 .vs1{	position: absolute;
 		top:150px;
-		left:480px;
+		left:520px;
 		border:4px #A07B7B dashed;
 		border-radius: 5px;
 		background-color: #EDE1CC;
@@ -577,26 +613,26 @@ b:hover{font-size: 22px;
 .pig1{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:100px;
-		left:100px;
+		top:270px;
+		left:190px;
 		animation: vs 1s infinite ease-out;}
 .pig2{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:450px;
-		left:100px;
+		top:620px;
+		left:190px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .pig3{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:100px;
-		left:1200px;
+		top:270px;
+		left:1500px;
 		animation: vs 1s infinite ease-out;}
 .pig4{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:450px;
-		left:1200px;
+		top:620px;
+		left:1500px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .futuretable{
 		border:2px #273861 dashed;
@@ -633,13 +669,25 @@ b:hover{font-size: 22px;
 		border-collapse: collapse;
 		position: absolute;
 		top:-10px;
-		left:20px;
+		left:60px;
 		padding: 10px;
-		margin-top:30px; 
+		margin-top:20px; 
 		}
 .td0{	border-collapse: collapse;
 		border:2px #273861 dashed;
 		padding:5px;
+		}
+.td7{	border-collapse: collapse;
+		border:2px #273861 dashed;
+		padding:5px;
+		width: 80px;
+		font-size: 22px;
+		background-color:#FFDBB3;
+		text-align:center; }
+.td8{	border-collapse: collapse;
+		border:2px #273861 dashed;
+		padding:8px;
+		background-color: #EDD9CC;
 		}
 .td1{	width:150px;
 		text-align: center;
@@ -656,11 +704,12 @@ b:hover{font-size: 22px;
 		background-color: #ADBCE1;
 		border:2px #273861 dashed;
 		border-collapse: collapse;
+		font-size: 22px;
 		}
 .sporttable{
 		border:2px #273861 dashed;
 		text-align: left;
-		width:450px;
+		width:625px;
 		height: 100px ;
 		border-collapse: collapse;
 		position: absolute;
@@ -669,7 +718,7 @@ b:hover{font-size: 22px;
 		
 }
 .hr2{	position: absolute;
-		top:800px;	
+		top:880px;	
 		}
 hr{		height: 3px;
 		width:100vw;
@@ -682,18 +731,19 @@ hr{		height: 3px;
 		border:3px #364D8A dashed;
 		border-radius: 10px;
 		position: absolute;
-		left:460px;
+		top:270px;
+		left:650px;
 		font-size: 18px;
 		color:#273861;
 		font-weight: bold;
 		line-height: 40px;
-
+		padding: 10px;
 		}
 .fb1{	width:50px;
 		height:50px;
 		position:absolute;
-		top:330px;
-		left:350px;}
+		top:340px;
+		left:365px;}
 .people2{
 		text-align: center;	
 		width:600px;
@@ -701,37 +751,38 @@ hr{		height: 3px;
 		border:3px #364D8A dashed;
 		border-radius: 10px;
 		position: absolute;
-		top:790px;
-		left:460px;
+		top:950px;
+		left:650px;
 		font-size: 18px;
 		color:#273861;
 		font-weight: bold;
 		line-height: 40px;
 		margin-bottom:50px;
 		margin-top:50px; 
+		padding: 10px;
 		 }
 .peach1{position: absolute;
-		top:840px;
-		left:100px;
+		top:1000px;
+		left:190px;
 		animation: vs 1s infinite ease-out;
 		}
 .peach2{position: absolute;
-		top:1190px;
-		left:100px;
+		top:1430px;
+		left:190px;
 		animation: vs 1s infinite ease-out;
 		}
 .peach3{position: absolute;
-		top:840px;
-		left:1200px;
+		top:1000px;
+		left:1500px;
 		animation: vs 1s infinite ease-out;
 		}
 .peach4{position: absolute;
-		top:1190px;
-		left:1200px;
+		top:1430px;
+		left:1500px;
 		animation: vs 1s infinite ease-out;
 		}
 .hr3{	position: absolute;
-		top:1515px;	
+		top:1780px;	
 		}
 .people3{
 		text-align: center;	
@@ -740,41 +791,42 @@ hr{		height: 3px;
 		border:3px #364D8A dashed;
 		border-radius: 10px;
 		position: absolute;
-		top:1550px;
-		left:460px;
+		top:1900px;
+		left:650px;
 		font-size: 18px;
 		color:#273861;
 		font-weight: bold;
 		line-height: 40px;
 		margin-bottom:50px; 
 		margin-top:50px;
+		padding: 10px;
 		}
 .bear1{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:1600px;
-		left:100px;
+		top:1950px;
+		left:190px;
 		animation: vs 1s infinite  ease-out;}
 .bear2{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:1950px;
-		left:100px;
+		top:2380px;
+		left:190px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .bear3{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:1600px;
-		left:1200px;
+		top:1950px;
+		left:1500px;
 		animation: vs 1s infinite  ease-out;}
 .bear4{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:1950px;
-		left:1200px;
+		top:2380px;
+		left:1500px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .hr4{	position: absolute;
-		top:2270px;	
+		top:2670px;	
 		}
 .people4{
 		text-align: center;	
@@ -783,61 +835,71 @@ hr{		height: 3px;
 		border:3px #364D8A dashed;
 		border-radius: 10px;
 		position: absolute;
-		top:2300px;
-		left:460px;
+		top:2700px;
+		left:650px;
 		font-size: 18px;
 		color:#273861;
 		font-weight: bold;
 		line-height: 40px;
-		margin-bottom:30px; 
+		padding: 10px;
+		margin-bottom:150px; 
 		margin-top:50px;
 		}
 .cat1{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:2350px;
-		left:100px;
+		top:2750px;
+		left:190px;
 		animation: vs 1s infinite  ease-out;}
 .cat2{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:2700px;
-		left:100px;
+		top:3150px;
+		left:190px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .cat3{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:2350px;
-		left:1200px;
+		top:2750px;
+		left:1500px;
 		animation: vs 1s infinite  ease-out;}
 .cat4{	width: 200px;
 		height: 200px;
 		position: absolute;
-		top:2700px;
-		left:1200px;
+		top:3150px;
+		left:1500px;
 		animation: vs 1s infinite 0.5s ease-out;}
 .mingi{	width:300px;
 		height:240px;
 		position: absolute;
 		top:70px;
-		left: 290px;}
+		left: 450px;
+		border-radius: 20px;}
 .samoya{width:300px;
 		height:240px;
 		position: absolute;
 		top:70px;
-		left: 600px;
+		left: 800px;
+		border-radius: 20px;
 		}
 .imtable{
 		border-collapse: collapse;
 		width:400px;
 		position: absolute;
+		top:20px;
 		left:100px;
 		}
-
+.imtable1{
+		border-collapse: collapse;
+		width:400px;
+		position: absolute;
+		top:20px;
+		left:600px;
+}
 .boy1{	position: absolute;
 		top:570px;
-		left:50px;
-		font-size: 20px;		
+		left:90px;
+		font-size: 24px;		
 		line-height:50px;
 		font-weight: bold;
 		color:#313147;
@@ -849,7 +911,7 @@ hr{		height: 3px;
 		height: 400px;
 		position: absolute;
 		top:600px;
-		left:120px;
+		left:180px;
 		border:12px  #556E76 ridge;		
 		}
 		@-webkit-keyframes round
@@ -900,8 +962,8 @@ hr{		height: 3px;
 		}				
 .girl1{	position: absolute;
 		top:1100px;
-		left:50px;
-		font-size: 20px;		
+		left:90px;
+		font-size: 24px;		
 		line-height:50px;
 		font-weight: bold;
 		color:#313147;
@@ -913,7 +975,7 @@ hr{		height: 3px;
 		height: 400px;
 		position: absolute;
 		top:1130px;
-		left:120px;
+		left:180px;
 		border:12px  #F9C5C5 ridge;		
 		}
 .girlbasket img{
@@ -960,8 +1022,8 @@ hr{		height: 3px;
 
 .boy2{	position: absolute;
 		top:1640px;
-		left:50px;
-		font-size: 20px;		
+		left:90px;
+		font-size: 24px;		
 		line-height:50px;
 		font-weight: bold;
 		color:#313147;
@@ -973,7 +1035,7 @@ hr{		height: 3px;
 		height: 400px;
 		position: absolute;
 		top:1670px;
-		left:120px;
+		left:180px;
 		border:12px  #907292 ridge;		
 		}
 .boyvolleyball img{
@@ -1020,8 +1082,8 @@ hr{		height: 3px;
 
 .girl2{	position: absolute;
 		top:2180px;
-		left:50px;
-		font-size: 20px;		
+		left:90px;
+		font-size: 24px;		
 		line-height:50px;
 		font-weight: bold;
 		color:#313147;
@@ -1033,7 +1095,7 @@ hr{		height: 3px;
 		height: 400px;
 		position: absolute;
 		top:2210px;
-		left:120px;
+		left:180px;
 		border:12px  #4C8C7C ridge;		
 		}
 .girlvolleyball img{
@@ -1081,8 +1143,8 @@ hr{		height: 3px;
 .badminton1{
 		position: absolute;
 		top:2720px;
-		left:50px;
-		font-size: 20px;		
+		left:90px;
+		font-size: 24px;		
 		line-height:50px;
 		font-weight: bold;
 		color:#313147;
@@ -1094,7 +1156,7 @@ hr{		height: 3px;
 		height: 400px;
 		position: absolute;
 		top:2750px;
-		left:120px;
+		left:180px;
 		border:12px  #EF9E7B ridge;	
 		}
 .badminton2 img{
@@ -1138,21 +1200,22 @@ hr{		height: 3px;
 .badmintonpic10{	
 		-webkit-animation: round 50s 45s linear infinite;
 		}	
-.home{	width:120px;
-		height:120px;}
+.home{	width:200px;
+		height:200px;}
 .homediv{
 		position:fixed;
 		bottom:0;
 		right:0;
-		width:120px;
-		height:120px;
+		width:200px;
+		height:200px;
 		}
 /*video_yifan*/
-.te{	border: 2px #CA6F1E   dashed ;
+.te{	width: 630px;
+		border: 2px #CA6F1E   dashed ;
 		padding:8px;
 	 	position: absolute;
-	  	top:570px;
-	  	left:465px;
+	  	top:630px;
+	  	left:640px;
 	 	background-color:#F9E79F ;
 	  	border-radius: 30px;
 	  	padding:10px;
@@ -1167,7 +1230,7 @@ hr{		height: 3px;
 	  	color:#313147;
 	  	opacity: 0;
 	  	animation: im 1s 1.5s forwards;}
-.mp42{ 
+.mp42{ 	width:630px; 
 	  	font-size:18px;
 	  	font-family:Microsoft JhengHei ;
 	  	text-align:center; 
@@ -1180,8 +1243,8 @@ hr{		height: 3px;
 	  	width:630px;
 	  	height:354px;
 	  	position: absolute;
-	  	left:452px;
-	  	top:145px; 
+	  	left:637px;
+	  	top:200px; 
 	  	border-radius: 30px;
 	  	border: 6px #CA6F1E dashed ;
 	  	padding:4px;
@@ -1194,10 +1257,11 @@ hr{		height: 3px;
    	  	border: 6px #CA6F1E   dashed ;
   	  	padding:4px;
    	  	z-index: -1;
+   	  	position:relative;
+   	  	top:0;
    }
-.po{  	position:relative;
-      	top:650px; 
-		}
+.po{	position: absolute;
+   	  	top:1000px;}
 .sidelight{
 	  	border: 2px #CA6F1E   dashed ;
 	  	padding:8px;
@@ -1205,8 +1269,8 @@ hr{		height: 3px;
 	  	font-size:20px;
 	  	text-align:center;
 	  	font-family:Microsoft JhengHei ;
-	  	top:850px;
-	  	left:725px;
+	  	top:920px;
+	  	left:905px;
 	  	background-color:#F9E79F ;
 	  	border-radius: 30px;
 	  	padding:10px;
@@ -1216,66 +1280,96 @@ hr{		height: 3px;
 	  	color:#313147;
 	  	opacity: 0; 
 		}
-.peach11{ 
+.yi{ 
 	  	width: 200px;
 	  	height: 200px;
 	  	position: absolute;
-	  	top:840px;
-	  	left:100px;
+	  	top:200px;
+	  	left:200px;
 	  	animation: vs 1s infinite ease-out;
   		}
-.peach31{ 
+.yi2{ 
 	  	width: 200px;
 	  	height: 200px;
 	  	position: absolute;
-	  	top:840px;
-	  	left:1200px;
+	  	top:600px;
+	  	left:200px;
 	  	animation: vs 1s infinite ease-out;
  		 }
-.peach21{
+.yi3{
 	  	width: 200px;
 	  	height: 200px;
 	  	position: absolute;
-	  	top:1190px;
-	  	left:100px;
+	  	top:1000px;
+	  	left:200px;
 	  	animation: vs 1s infinite ease-out;
  		 }
-.peach41{ 
+.yi4{ 
 	  	width: 200px;
 	  	height: 200px;
 	  	position: absolute;
-	  	top:1190px;
-	  	left:1200px;
+	  	top:200px;
+	  	left:1500px;
+	  	animation: vs 1s infinite ease-out;
+		}
+.yi5{ 
+	  	width: 200px;
+	  	height: 200px;
+	  	position: absolute;
+	  	top:600px;
+	  	left:1500px;
+	  	animation: vs 1s infinite ease-out;
+		}
+.yi6{ 
+	  	width: 200px;
+	  	height: 200px;
+	  	position: absolute;
+	  	top:1000px;
+	  	left:1500px;
 	  	animation: vs 1s infinite ease-out;
 		}
 /*video_yifan*/
-.tea1{	width:550px;
-		height:406px;
+.bigg{	widows:200px ;
+		height: 200px;
 		position: absolute;
-		top:250px;
-		opacity: 0;
-		animation: im 1s 1.5s forwards;}
-.tea2{	width:550px;
-		height:406px;
+		top:-80px;
+		left: 1100px;
+		}
+.tea1{	width:420px;
+		height:300px;
 		position: absolute;
-		top:250px;
-		left:505px;
+		top:230px;
+		left: 50px;
 		opacity: 0;
-		animation: im 1s 1.5s forwards;}
+		border-radius: 20px; 
+		animation: im 1s 1.5s forwards;
+		border:8px #FFE075 dashed ;}
+.tea2{	width:420px;
+		height:300px;
+		position: absolute;
+		top:230px;
+		left:600px;
+		opacity: 0;
+		border-radius: 20px; 
+		animation: im 1s 1.5s forwards;
+		border:8px #FFE075 dashed ;}
 .dogdiv{float:left;
 		width:65vw;
 		height: 1700px;
 		position: absolute;
-        left:26vw;}
+		top:180px;
+        left:24vw;}
 .imbst{	width:600px;
 		height: 400px;
 		position: absolute;
-		top:280px;
-		left:80px;
-		border:10px  #323A51 dashed;}
+		top:150px;
+		left:185px;
+		border:8px  #323A51 dashed;
+		border-radius: 20px;}
 .imbst img{
 		width:600px;
 		height: 400px;
+		border-radius: 20px;
 		position: absolute;
 		top:0;
 		left:0;
@@ -1314,26 +1408,43 @@ hr{		height: 3px;
 .imbstpic10{	
 		-webkit-animation: round 50s 45s linear infinite;
 		}	
-.yt1{	position: absolute;
-		top:750px;
-		left:105px;}
-.yt2{	position: absolute;
-		top:1150px;
-		left:105px;}
+.yt1{	width:560px;
+		height: 315px;
+		position: absolute;
+		top:650px;
+		left:210px;
+		border:8px  #323A51 dashed;
+		border-radius: 20px;}
+.yt1video{
+		border-radius: 20px;
+		}
+.yt2{	width:560px;
+		height: 315px;
+		position: absolute;
+		top:1050px;
+		left:210px;
+		border:8px  #323A51 dashed;
+		border-radius: 20px;}
+.yt2video{
+		border-radius: 20px;
+}
 
 .nightdiv{
 		float:left;
 		width:65vw;
 		height: 1700px;
 		position: absolute;
-        left:26vw;
+		top:180px;
+        left:24vw;
 }
 .night{	width:600px;
 		height: 400px;
 		position: absolute;
-		top:250px;
-		left:80px;
-		border:10px  #D18383 dashed;}
+		top:130px;
+		left:185px;
+		border-radius: 20px;
+		border:8px  #D18383 dashed;
+		}
 .night img{
 		width:600px;
 		height: 400px;
@@ -1341,6 +1452,8 @@ hr{		height: 3px;
 		top:0;
 		left:0;
 		opacity: 0;
+		border-radius: 20px;
+
 		}
 .night:hover img {		
     	-webkit-animation-play-state: paused;       
@@ -1375,22 +1488,38 @@ hr{		height: 3px;
 .nightpic10{	
 		-webkit-animation: round 50s 45s linear infinite;
 		}
-.yt3{	position: absolute;
-		top:750px;
-		left:105px;}
-.yt4{	position: absolute;
-		top:1150px;
-		left:105px;}
-
+.yt3{	width:560px;
+		height: 315px;
+		position: absolute;
+		top:630px;
+		left:210px;
+		border-radius: 20px;
+		border:8px  #D18383 dashed;}
+.yt3video{
+		border-radius: 20px;
+		
+}
+.yt4{	width:560px;
+		height: 315px;
+		position: absolute;
+		top:1050px;
+		left:210px;
+		border-radius: 20px;
+		border:8px  #D18383 dashed;}
+.yt4video{
+		border-radius: 20px;
+}
 .play{	width:600px;
 		height: 400px;
 		position: absolute;
-		top:250px;
-		left:80px;
+		top:130px;
+		left:185px;
+		border-radius: 20px;
 		border:10px  #3C8659 dashed;}
 .play img{
 		width:600px;
 		height: 400px;
+		border-radius: 20px;
 		position: absolute;
 		top:0;
 		left:0;
@@ -1448,7 +1577,7 @@ hr{		height: 3px;
 		top:570px;
 		left:100px;
 		border-collapse: collapse;
-		border:5px #FFD07D dashed;		
+		border:5px #805A44 dashed;		
 		text-align: center;
 		opacity: 0;
 		animation: im 1s 1.5s forwards;	
@@ -1458,7 +1587,7 @@ hr{		height: 3px;
 
 		}
 .td5{	border-collapse: collapse;
-		border:3px #805A44 dashed;
+		border:3px #796F57 dashed;
 		padding-top: 10px;
 		padding-bottom: 10px;
 	}
@@ -1498,7 +1627,7 @@ hr{		height: 3px;
 		color:#313147;
 		font-weight: bolder;
 		position:absolute;
-		top:380px;
+		top:360px;
 		left: 50px;
 		line-height: 30px;
 		opacity: 0;
@@ -1512,8 +1641,8 @@ hr{		height: 3px;
 		width:200px;
 		height:200px;
 		position:absolute;
-		top:100px;
-		left:650px;
+		top:0px;
+		left:1100px;
 		animation:png 3s ease-out infinite;
 	}
 		@-webkit-keyframes png
@@ -1525,36 +1654,37 @@ hr{		height: 3px;
 		width:200px;
 		height:200px;
 		position:absolute;
-		top:600px;
-		left:650px;
+		top:500px;
+		left:1100px;
 		animation:png 3s 0.5s ease-out infinite;
 	}
 .tablecomputer{		
 		position:absolute;
-		top:1200px;
+		top:800px;
 		left:650px;
 		animation:png 3s 1s ease-out infinite;
 	}
 .robot{	width:150px;
 		height:150px;
 		position:absolute;
-		top:610px;
-		animation:robot 10s  linear infinite;
+		top:0px;
+		left:1100px;
+		animation:robot 3s linear infinite;
 	}
 		@-webkit-keyframes robot
 		{
-		0%{transform:translateX(50px);}
-		25%{transform:translateX(400px);}		
-		50%{transform:translateX(800px);}
-		75%{transform:translateX(400px);}
-		100%{transform:translateX(50px);}			
+		0%{transform:translateY(0px);}
+		25%{transform:translateY(200px);}		
+		50%{transform:translateY(380px);}
+		75%{transform:translateY(200px);}
+		100%{transform:translateY(0px);}			
 		}
 .circlepng{
-		width:200px;
-		height:200px;
+		width:300px;
+		height:300px;
 		position:absolute;
-		top:400px;
-		left:770px;
+		top:200px;
+		left:900px;
 		animation:cir 8s  linear infinite;
 }
 		@-webkit-keyframes cir
@@ -1565,46 +1695,46 @@ hr{		height: 3px;
 	
 		100%{transform:rotate(60deg);}			
 		}
-.dance{	width:200px;
-		height:200px;
+.dance{	width:280px;
+		height:280px;
 		position:absolute;
-		top:860px;
-		left:750px;}
+		top:680px;
+		left:900px;}
 .boyfan{width:400px;
 		height:273px;
 		position:absolute;
-		top:1200px;
-		left:680px;
+		top:1100px;
+		left:800px;
 }
-.play2{	width:250px;
-		height:250px;
+.play2{	width:300px;
+		height:300px;
 		position:absolute;
-		top:160px;
-		left:750px;}
+		top:100px;
+		left:950px;}
 .magic{	width:200px;
 		height:280px;
 		position:absolute;
-		top:500px;
-		left:750px;
-		transform:rotate(-15deg);}
-.two{	width:400px;
-		height:230px;
+		top:420px;
+		left:800px;
+		transform:rotate(-10deg);}
+.two{	width:450px;
+		height:280px;
 		position:absolute;
-		top:850px;
-		left:700px;}
-.dance2{width:380px;
+		top:720px;
+		left:900px;}
+.dance2{width:400px;
+		height:270px;
+		position:absolute;
+		top:1120px;
+		left:900px;}
+.lala{	width:250px;
 		height:250px;
 		position:absolute;
-		top:1240px;
-		left:700px;}
-.lala{	width:200px;
-		height:200px;
-		position:absolute;
-		top:170px;
-		left:750px;}
+		top:80px;
+		left:850px;}
 .pigrun{width:250px;
 		height:300px;
 		position:absolute;
-		top:400px;
-		left:820px;		
+		top:300px;
+		left:1100px;		
 }
