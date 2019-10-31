@@ -229,41 +229,41 @@ fieldset{border:3px #323A51 dashed;}
 		height:280px;
 		position: absolute;
 		left:390px;
-	    top:640px;
+	    top:660px;
 		}
 .c:hover{
 		transform: scale(1.15);
-		top:620px;
+		top:640px;
 		}
 .y	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:655px;
-	    top:640px;
+	    top:660px;
 		}
 .y:hover{
 		transform: scale(1.15);
-		top:620px;
+		top:640px;
 		}
 .i	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:950px;
-	    top:640px;
+	    top:660px;
 		}
 .i:hover{
 		transform: scale(1.2);
-		top:610px;
+		top:630px;
 		}
 .m	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:1230px;
-	    top:640px;
+	    top:660px;
 		}
 .m:hover{
 		transform: scale(1.2);
-		top:610px;
+		top:630px;
 		}
 .about1{width:310px;
 		height:265px;
