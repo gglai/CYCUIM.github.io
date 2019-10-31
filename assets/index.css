@@ -7,11 +7,11 @@ body   {background-color: #9EBAC5;
 	    font-family: "微軟正黑體";
 	   	
 		}
-.header{width: 100vw;
+.header{width: 95vw;
 		height:130px;
-		text-align:center;
-		}
-.footer{width: 100vw;
+		text-align: center;
+				}
+.footer{width: 95vw;
         height: 180px;
 		margin: 0px;
 		position: fixed;
@@ -229,41 +229,41 @@ fieldset{border:3px #323A51 dashed;}
 		height:280px;
 		position: absolute;
 		left:390px;
-	    top:650px;
+	    top:640px;
 		}
 .c:hover{
 		transform: scale(1.15);
-		top:630px;
+		top:620px;
 		}
 .y	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:655px;
-	    top:650px;
+	    top:640px;
 		}
 .y:hover{
 		transform: scale(1.15);
-		top:630px;
+		top:620px;
 		}
 .i	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:950px;
-	    top:650px;
+	    top:640px;
 		}
 .i:hover{
 		transform: scale(1.2);
-		top:620px;
+		top:610px;
 		}
 .m	   {width:310px;
 		height:280px;
 		position: absolute;
 		left:1230px;
-	    top:650px;
+	    top:640px;
 		}
 .m:hover{
 		transform: scale(1.2);
-		top:620px;
+		top:610px;
 		}
 .about1{width:310px;
 		height:265px;
